@@ -1,0 +1,38 @@
+{
+    "File_path": "F:/DataSet/Meridian_project/Yanqing/2024/202404/20240423/Na",
+    "Save_path": "E:/Data/",
+    "Meridian_path": "F:/lidar data/Meridian/Yanqing/2024/202404/",
+    "SABER_path": "F:/lidar data/Yanqing_SABER/",
+    "Station": {
+        "Beijing": {
+            "station_info": "Beijing(116.0E,40.5N,506m)",
+            "File_header": "BJ_LD1_589nm_Na_DV_",
+            "Coordinates": [
+                40.5,
+                116.0
+            ],
+            "Error_threshold": [
+                2,
+                3
+            ],
+            "Altitude": 0.504
+        },
+        "Haikou": {
+            "station_info": "Haikou(110.3E,19.9N,45m)",
+            "File_header": "HK_LD1_589nm_Na_DV_",
+            "Coordinates": [
+                19.9,
+                110.3
+            ],
+            "Error_threshold": [
+                3,
+                4
+            ],
+            "Altitude": 0.045
+        }
+    },
+    "Resolution": [
+        "60",
+        "1000"
+    ]
+}
